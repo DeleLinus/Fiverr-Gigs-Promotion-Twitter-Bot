@@ -69,7 +69,7 @@ Windows:
 ```bash
 > <your_path>/<application_folder>
 ```
-2. Then run the module "etl_app.py" to enjoy this program.
+2. Then run the module "myPromoter.py" to enjoy this program.
 ```bash
 $/> python myPromoter.py
 ```
