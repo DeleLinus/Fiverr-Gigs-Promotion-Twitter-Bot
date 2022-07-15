@@ -31,7 +31,7 @@ Other dependencies include:
 
 which are readily available with python.
 
-> The program file initially included the `myPromoter.py` script and other necesaary files needed for deployment.
+The program file initially included the `myPromoter.py` script and other necesaary files needed for deployment.
 
 To install the required dependencies once, follow the following procedures:
 
